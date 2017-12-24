@@ -1,0 +1,11 @@
+{
+  "name": "daap",
+  "private": true,
+  "dependencies": {
+  "web3": "^0.18.2"
+},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
